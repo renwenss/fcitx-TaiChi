@@ -15,3 +15,5 @@
 ### Fcitx默认按分号键开始快速符号输入，By default, press ";" to enter the key value, for example:;bg
 ![](https://raw.githubusercontent.com/renwenss/img/master/renwenss2020-03-26-11-29.png)
 
+### 下载 download
+[点此下载 Github-download](https://github.com/renwenss/fcitx-TaiChi)
